@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alatoo-photostock/static/css/main.68d698e3.chunk.css",
+    "main.js": "/alatoo-photostock/static/js/main.60536554.chunk.js",
+    "main.js.map": "/alatoo-photostock/static/js/main.60536554.chunk.js.map",
+    "runtime-main.js": "/alatoo-photostock/static/js/runtime-main.4678c82b.js",
+    "runtime-main.js.map": "/alatoo-photostock/static/js/runtime-main.4678c82b.js.map",
+    "static/js/2.bbcceb06.chunk.js": "/alatoo-photostock/static/js/2.bbcceb06.chunk.js",
+    "static/js/2.bbcceb06.chunk.js.map": "/alatoo-photostock/static/js/2.bbcceb06.chunk.js.map",
+    "index.html": "/alatoo-photostock/index.html",
+    "precache-manifest.fa798809edbf9232ae632660e1d1c7ea.js": "/alatoo-photostock/precache-manifest.fa798809edbf9232ae632660e1d1c7ea.js",
+    "service-worker.js": "/alatoo-photostock/service-worker.js",
+    "static/css/main.68d698e3.chunk.css.map": "/alatoo-photostock/static/css/main.68d698e3.chunk.css.map",
+    "static/js/2.bbcceb06.chunk.js.LICENSE.txt": "/alatoo-photostock/static/js/2.bbcceb06.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/alatoo-photostock/static/media/logo.e5536f78.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4678c82b.js",
+    "static/js/2.bbcceb06.chunk.js",
+    "static/css/main.68d698e3.chunk.css",
+    "static/js/main.60536554.chunk.js"
+  ]
+}
