@@ -17,6 +17,10 @@ Feedbacks: https://drive.google.com/drive/folders/1ajJMXtAd_FxvreS0TmzRP-n5M4UTZ
 
 Deploy: waiting...
 
+Team members:
+Alimzhanov Amir,
+Sydykov Islam
+
 ## Screenshots:
 
 
