@@ -5,11 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Photo stock for our university
 ## Technologies used:
 React JS
+
 Firebase
+
 Animation libraries
 
 ### Supportive links:
 Video review: https://www.youtube.com/watch?v=y0U9L9cCbyo
+
 Feedbacks: https://drive.google.com/drive/folders/1ajJMXtAd_FxvreS0TmzRP-n5M4UTZmgi?usp=sharing
 
 Deploy: waiting...
